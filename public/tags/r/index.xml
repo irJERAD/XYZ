@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>R on Jerad XYZ</title>
-		<link>http://localhost:1313/tags/r/</link>
+		<link>https://jerad.xyz/tags/r/</link>
 		<description>Recent content in R on Jerad XYZ</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,40 +12,40 @@
 		
 			<lastBuildDate>Thu, 27 Apr 2017 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/r/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://jerad.xyz/tags/r/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Computer Vision with Image LineSegmentDetector</title>
-				<link>http://localhost:1313/projects/computer-vision-line-segment-detector/</link>
+				<link>https://jerad.xyz/projects/computer-vision-line-segment-detector/</link>
 				<pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/projects/computer-vision-line-segment-detector/</guid>
+				<guid>https://jerad.xyz/projects/computer-vision-line-segment-detector/</guid>
 				<description>Computer vision exploration using the image.LineSegmentDetector R package from the image algorithm suite.</description>
 			</item>
 			<item>
 				<title>Computer Vision with videoplayR</title>
-				<link>http://localhost:1313/projects/computer-vision-videoplayr/</link>
+				<link>https://jerad.xyz/projects/computer-vision-videoplayr/</link>
 				<pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/projects/computer-vision-videoplayr/</guid>
+				<guid>https://jerad.xyz/projects/computer-vision-videoplayr/</guid>
 				<description>An image and video analysis experiment using the videoplayR package to inspect attributes of video frames.</description>
 			</item>
 			<item>
 				<title>NYC Motor Collision Dashboard</title>
-				<link>http://localhost:1313/projects/nyc-motor-collision-dashboard/</link>
+				<link>https://jerad.xyz/projects/nyc-motor-collision-dashboard/</link>
 				<pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/projects/nyc-motor-collision-dashboard/</guid>
+				<guid>https://jerad.xyz/projects/nyc-motor-collision-dashboard/</guid>
 				<description>A three-panel interactive dashboard based on the NYC motor vehicle collisions dataset and organized by borough.</description>
 			</item>
 			<item>
 				<title>NYC Motor Vehicle Collision Exploratory Data Analysis</title>
-				<link>http://localhost:1313/projects/nyc-motor-collision-exploratory-analysis/</link>
+				<link>https://jerad.xyz/projects/nyc-motor-collision-exploratory-analysis/</link>
 				<pubDate>Fri, 30 Sep 2016 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/projects/nyc-motor-collision-exploratory-analysis/</guid>
+				<guid>https://jerad.xyz/projects/nyc-motor-collision-exploratory-analysis/</guid>
 				<description>Exploratory analysis behind the NYC collision dashboard, with knitr source material for reproducibility.</description>
 			</item>
 			<item>
 				<title>Apple HealthKit Dashboard</title>
-				<link>http://localhost:1313/projects/healthkit-dashboard/</link>
+				<link>https://jerad.xyz/projects/healthkit-dashboard/</link>
 				<pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/projects/healthkit-dashboard/</guid>
+				<guid>https://jerad.xyz/projects/healthkit-dashboard/</guid>
 				<description>Interactive dashboard from iPhone HealthKit data, built in R with htmlwidgets and flexdashboard packages.</description>
 			</item>
 	</channel>
