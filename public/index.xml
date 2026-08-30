@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Jerad XYZ</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content on Jerad XYZ</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 31 May 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Wild at Heart: Mecho en Mexico</title>
+				<link>http://localhost:1313/writing/wild-at-heart-mecho-en-mexico/</link>
+				<pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/writing/wild-at-heart-mecho-en-mexico/</guid>
+				<description>A reflection on a seven-day surf trip, the friendships that form when people make space for each other, and the courage it takes to try something new.</description>
+			</item>
+			<item>
+				<title>Computer Vision with Image LineSegmentDetector</title>
+				<link>http://localhost:1313/projects/computer-vision-line-segment-detector/</link>
+				<pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/projects/computer-vision-line-segment-detector/</guid>
+				<description>Computer vision exploration using the image.LineSegmentDetector R package from the image algorithm suite.</description>
+			</item>
+			<item>
+				<title>Computer Vision with videoplayR</title>
+				<link>http://localhost:1313/projects/computer-vision-videoplayr/</link>
+				<pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/projects/computer-vision-videoplayr/</guid>
+				<description>An image and video analysis experiment using the videoplayR package to inspect attributes of video frames.</description>
+			</item>
+			<item>
+				<title>NYC Motor Collision Dashboard</title>
+				<link>http://localhost:1313/projects/nyc-motor-collision-dashboard/</link>
+				<pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/projects/nyc-motor-collision-dashboard/</guid>
+				<description>A three-panel interactive dashboard based on the NYC motor vehicle collisions dataset and organized by borough.</description>
+			</item>
+			<item>
+				<title>IoT Dashboard | How To Physically Interface with the Connected World</title>
+				<link>http://localhost:1313/writing/iot-dashboard-how-to-interface-connected-world/</link>
+				<pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/writing/iot-dashboard-how-to-interface-connected-world/</guid>
+				<description>A playful, philosophical write-up about a physical button interface for connected-world actions and dashboard automation.</description>
+			</item>
+			<item>
+				<title>Trump Twitter Word Cloud</title>
+				<link>http://localhost:1313/projects/trump-twitter-word-cloud/</link>
+				<pubDate>Wed, 08 Feb 2017 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/projects/trump-twitter-word-cloud/</guid>
+				<description>Word cloud generated from a time series of tweets, prepared as a reproducible knitr document.</description>
+			</item>
+			<item>
+				<title>Jupyter Notebook Basics</title>
+				<link>http://localhost:1313/writing/jupyter-notebook-basics/</link>
+				<pubDate>Wed, 09 Nov 2016 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/writing/jupyter-notebook-basics/</guid>
+				<description>A practical reminder sheet for working in Jupyter notebooks, including cells, Markdown, documentation, and learning resources.</description>
+			</item>
+			<item>
+				<title>NYC Motor Vehicle Collision Exploratory Data Analysis</title>
+				<link>http://localhost:1313/projects/nyc-motor-collision-exploratory-analysis/</link>
+				<pubDate>Fri, 30 Sep 2016 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/projects/nyc-motor-collision-exploratory-analysis/</guid>
+				<description>Exploratory analysis behind the NYC collision dashboard, with knitr source material for reproducibility.</description>
+			</item>
+			<item>
+				<title>Apple HealthKit Dashboard</title>
+				<link>http://localhost:1313/projects/healthkit-dashboard/</link>
+				<pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/projects/healthkit-dashboard/</guid>
+				<description>Interactive dashboard from iPhone HealthKit data, built in R with htmlwidgets and flexdashboard packages.</description>
+			</item>
+			<item>
+				<title>Wharton Operations Analytics Notes</title>
+				<link>http://localhost:1313/writing/wharton-operations-analytics-notes/</link>
+				<pubDate>Tue, 28 Jun 2016 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/writing/wharton-operations-analytics-notes/</guid>
+				<description>Course notes on descriptive analytics, predictive analytics, prescriptive analytics, and the Newsvendor Problem.</description>
+			</item>
+			<item>
+				<title>How to Create a Custom Email Signature for Mail</title>
+				<link>http://localhost:1313/writing/custom-email-signature/</link>
+				<pubDate>Mon, 27 Jun 2016 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/writing/custom-email-signature/</guid>
+				<description>Notes on building a custom HTML email signature for Mail, with a focus on branded, clickable personal and professional identities.</description>
+			</item>
+			<item>
+				<title>Cat Photo App</title>
+				<link>http://localhost:1313/writing/cat-photo-app/</link>
+				<pubDate>Fri, 17 Jun 2016 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/writing/cat-photo-app/</guid>
+				<description>A small front-end development exercise from freeCodeCamp, built around HTML, CSS, and a delightfully direct cat-photo premise.</description>
+			</item>
+			<item>
+				<title>LinkTree</title>
+				<link>http://localhost:1313/linktree/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/linktree/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://holddown.jerad.xyz&#34;&gt;Hold Down&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://holddown.jerad.xyz&#34;&gt;Hold Down&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

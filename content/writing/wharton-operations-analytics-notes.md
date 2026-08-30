@@ -1,0 +1,143 @@
+---
+title: "Wharton Operations Analytics Notes"
+date: 2016-06-28
+tags: ["analytics", "learn"]
+summary: "Course notes on descriptive analytics, predictive analytics, prescriptive analytics, and the Newsvendor Problem."
+image: "/media/imported/posts/wharton_operations_analytics.png"
+image_alt: "Operations Analytics Week 1 notes preview"
+---
+
+<h4>Operations Analytics Notes for Week 1:</h4>
+<blockquote>The descriptive analytics covered this week will provide a strong conceptual basis for predictive and prescriptive analytics in the following three weeks of the course.</blockquote>
+<h4>Covered by this Courser</h4>
+<p>The class will start by going over a number of the most important and familiar problems in operations. The Newsvendor Problem is one of the fundamental problems in operations. We will also cover a range of related problems such as Resource Allocation, Network Management and Capacity Planning. By the end of this course, a familiarity with important problems and with operations analytics methods for tackling them.</p>
+<h5>Descriptive Analytics</h5>
+<p>Descriptive Analytics function to characterize data and to forecast future events.</p>
+<h5>Predictive and Prescriptive Analytics</h5>
+<p>Predictive and Prescriptive Analytics are employed to evaluate alternatives and to select the best course of action both in low and in high uncertainty environments.</p>
+<blockquote>Operations is about making good decisions in the frequent setting of uncertainty about future events.</blockquote>
+<h3>The Newsvendor Problem</h3>
+<p>The Newsvendor Problem is about matching demand with supply in uncertain settings.</p>
+<p>We need to be able to describe uncertainty in our data.</p>
+<p>Week 1 will be spread across four themed sessions - All of which will center on <strong>descriptive analytics</strong> Session:</p>
+<ol>
+<li>Operational Decision Problem: Newsvendor Problem</li>
+</ol>
+<ul>
+<li>Random Variables</li>
+<li>Demand Distributions</li>
+</ul>
+<ol>
+<li>Forecasting with Past Historical Data</li>
+</ol>
+<ul>
+<li>Moving Averages</li>
+<li>Exponential Smoothing (advanced materials)</li>
+</ul>
+<ol>
+<li>Thinking about Trends and Seasonality</li>
+</ol>
+<ul>
+<li>Forecasting when the data shows trend or seasonality</li>
+</ul>
+<ol>
+<li>Forecasting for New Products</li>
+</ol>
+<ul>
+<li>Fitting Demand Distributions</li>
+</ul>
+<h4>Newsvendor Problem, problems</h4>
+<p>The issue with the Newsvendor problem is accurately predicting future demand to properly stock an item of merchandise. Oversaturated, order too much: Purchased n-more pieces of merchandise than were sold by anticipating more d-demand than turned up in reality &mdash; loss of n * (cost per item). Unmet demand, did not order enough: Purchased m-fewer pieces of merchandise than d-demand &mdash; loss of m * (profit per item) in potential gains.</p>
+<h4>Breaking down the Newsvendor Problem</h4>
+<p><strong>Characteristics:</strong></p>
+<ul>
+<li>You have an objective: usually maximize profits, minimize costs, improve market share, etc.</li>
+<li>You have to make one decision: usually, how much to buy, or plan for.</li>
+<li>All this is decided and done before seeing the future demand.</li>
+<li>Demand occurs, and profits and costs are realized</li>
+</ul>
+<h4>Case Study: A Business Application at <em>Time Inc.</em></h4>
+<ol>
+<li>Time Magazine Supply Chain:</li>
+</ol>
+<ul>
+<li>Stores were either selling out inventories (too little inventory :: under estimating demand)</li>
+<li>or sold only a small fraction of allocation (too much inventory :: over estimating demand)</li>
+</ul>
+<ol>
+<li>Time Magazine evaluated and adjusted for every issue:</li>
+</ol>
+<ul>
+<li>National print order (total number of copies printed and shipped).</li>
+<li>Wholesale allotment structure (How those copies are allotted to wholesalers)</li>
+<li>Store distribution (Final distribution to stores).</li>
+</ul>
+<ol>
+<li>Note: above three decisions are made before the actual demand is realized.</li>
+</ol>
+<ul>
+<li>Need to analyze past Data</li>
+<li>Forecast future demand</li>
+</ul>
+<ol>
+<li>Time Magazine reports saving $3.5M annually from tackling the newsvendor problem.</li>
+</ol>
+<ul>
+<li>Koschat et al, <em>Interfaces</em>, Volume 33, No 3. May-June 2003, pages 72-84.</li>
+</ul>
+<h4>Other Newsvendor Problems</h4>
+<blockquote>For each of the examples, some forecast of future demand is an essential.</blockquote>
+<p>A newsvendor problem requires the actor to make their decisions before the demand or consumption is known.</p>
+<ol>
+<li><strong>Governments order flu vaccines</strong> before the flu season begins, and before the extent of the nature of the flu strain is known.</li>
+</ol>
+<ul>
+<li>How many vaccines to order?</li>
+<li>This is a <em>Newsvendor Problem</em> because you have to know how to make your decision before the demand is known.</li>
+</ul>
+<ol>
+<li>Smartphone users buy <strong>mobile data plans</strong> before they know their actual future usage</li>
+</ol>
+<ul>
+<li>What is the right plan for you?</li>
+</ul>
+<ol>
+<li>Consumers <strong>buy health insurance plans</strong>, before they know their actual health expenditures.</li>
+</ol>
+<ul>
+<li>How to think about the right plans?</li>
+</ul>
+<h3>Forecasting</h3>
+<h4>Introduction to Forecasting</h4>
+<h5>What is Forecasting?</h5>
+<p>The primary function of <strong>forecasting</strong> is to predict the future. Predicting the future is appealing because it dictates the kind of decisions we make today. It follows that the quality of these decisions should be directly related to the accuracy of our forecasting.</p>
+<blockquote>If we know something about the future, we can make better decisions today.</blockquote>
+<p>There are lots of economic uses for forecasting. Typical applications of forecasting can be seen in:</p>
+<ul>
+<li>Forecasting demand for products and demand for services.</li>
+<li>Forecasting inventory needs and forecasting capacity needs</li>
+<li>and so on...</li>
+</ul>
+<h5>Quality of a Forecast</h5>
+<p>Forecasting is obviously important and valued, but <strong>What makes a good forecast?</strong></p>
+<ul>
+<li>Timely: a perfect forecast immediately becomes no more valuable than a statement when it is no longer about the future</li>
+<li>Accuracy: the more accurate a forecast, the more enhanced decisions can become</li>
+<li>Meaningful units: knowing demand for a product will increase is not nearly as valuable as knowing whether it will double or increase tenfold</li>
+<li>The forecasting method should be easy to use and understood in practice</li>
+</ul>
+<h5>The First rule of Forecasting</h5>
+<p><strong>The first rule of forecasting is that point forecasts are usually wrong.</strong></p>
+<p>To forecast that the temperature will be 78.2 degrees fahrenheit provides an infinite amount of possibilities to be proven wrong just between 78.3 and 78.4 degrees</p>
+<p>We cannot predict future demand with certainty.</p>
+<p>We can try to decide what future demand scenarios are possible and for each scenario, estimate the likelihood of its realization.</p>
+<p>Trying to leverage the most value from forecasting, and with <em>the first rule of forecasting in mind</em>, we combine likelihoods with scenarios to distribute forecast over a probability space. This probability space can then provide us with expected values that act almost as an <em>average of forecasts</em></p>
+<p>For example: If analyzing data lead us to conclude on the following scenarios:</p>
+<ul>
+<li>Likelihood of "high" demand is 20%</li>
+<li>Likelihood of "normal" demand is 70%</li>
+<li>Likelihood of "low" demand is 10%</li>
+</ul>
+<p>To simplify things further, let's say there were only these three options and that "normal" was twice as likely as "low" and half as likely as "high"</p>
+<p>Assuming this was a complete system we could statistically compute the expected demand accordingly, solving for the probability of each scenario and then combining them into an expected value.</p>
+<p>Sources: Coursera's Wharton Operations Analytics course, and the Wikipedia page on the Newsvendor model.</p>

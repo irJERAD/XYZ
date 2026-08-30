@@ -1,0 +1,35 @@
+{{ define "main" }}
+<section class="section page-hero">
+  <p class="eyebrow">{{ .Title }}</p>
+  <h1>{{ .Params.page_heading }}</h1>
+  <p>{{ .Params.page_subhead }}</p>
+</section>
+
+<section class="section list-section" aria-label="{{ .Title }}">
+  {{ range .Pages.ByDate.Reverse }}
+  <article class="entry-card{{ if .Params.image }} entry-card--media{{ end }}">
+    {{ if .Params.image }}<img src="{{ .Params.image | relURL }}" alt="{{ .Params.image_alt | default .Title }}" />{{ end }}
+    <span>{{ .Date.Format "2006" }}{{ range .Params.tags }} &middot; {{ . }}{{ end }}</span>
+    <h2>{{ .Title }}</h2>
+    <p>{{ .Params.summary | default .Description }}</p>
+    <a class="text-link" href="{{ .RelPermalink }}">{{ if eq $.Section "projects" }}View project{{ else }}Read post{{ end }}</a>
+  </article>
+  {{ else }}
+  <p>Nothing published here yet. Add a markdown file to this section and run <code>hugo</code> to rebuild.</p>
+  {{ end }}
+</section>
+
+{{ if .Params.next_kicker }}
+<section class="section split">
+  <div>
+    <p class="section-kicker">{{ .Params.next_kicker }}</p>
+    <h2>{{ .Params.next_title }}</h2>
+  </div>
+  <div class="prose">
+    {{ range .Params.next_paragraphs }}
+    <p>{{ . }}</p>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+{{ end }}

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{ if .IsHome }}{{ .Site.Title }} | Writing, Projects, Education, Surf, and Faith{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+    <meta
+      name="description"
+      content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Inter:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="{{ "styles.css" | relURL }}" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="{{ "/" | relURL }}">{{ .Site.Title }}</a>
+      <nav aria-label="Primary navigation">
+        <a href="{{ "/linktree/" | relURL }}"{{ if eq .Section "linktree" }} aria-current="page"{{ end }}>Linktree</a>
+        <a href="{{ "/writing/" | relURL }}"{{ if eq .Section "writing" }} aria-current="page"{{ end }}>Writing</a>
+        <a href="{{ "/projects/" | relURL }}"{{ if eq .Section "projects" }} aria-current="page"{{ end }}>Projects</a>
+        <a href="{{ "/" | relURL }}#about">About</a>
+      </nav>
+    </header>
+
+    <main{{ if .IsHome }} id="top"{{ end }}>
+      {{ block "main" . }}{{ end }}
+    </main>
+  </body>
+</html>

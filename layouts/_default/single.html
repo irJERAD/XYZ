@@ -1,0 +1,18 @@
+{{ define "main" }}
+<article class="section article">
+  <a class="back-link" href="{{ .Parent.RelPermalink }}">Back to {{ .Parent.Title | lower }}</a>
+  <header class="article-header">
+    <p class="eyebrow">{{ .Date.Format "2006-01-02" }}{{ range .Params.tags }} &middot; {{ . }}{{ end }}</p>
+    <h1>{{ .Title }}</h1>
+    <p>{{ .Params.summary | default .Description }}</p>
+  </header>
+  {{ if .Params.image }}
+  <figure class="article-image">
+    <img src="{{ .Params.image | relURL }}" alt="{{ .Params.image_alt | default .Title }}" />
+  </figure>
+  {{ end }}
+  <div class="article-body">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}

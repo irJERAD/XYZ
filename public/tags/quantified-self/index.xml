@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Quantified Self on Jerad XYZ</title>
+		<link>http://localhost:1313/tags/quantified-self/</link>
+		<description>Recent content in Quantified Self on Jerad XYZ</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 09 Sep 2016 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/quantified-self/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Apple HealthKit Dashboard</title>
+				<link>http://localhost:1313/projects/healthkit-dashboard/</link>
+				<pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/projects/healthkit-dashboard/</guid>
+				<description>Interactive dashboard from iPhone HealthKit data, built in R with htmlwidgets and flexdashboard packages.</description>
+			</item>
+	</channel>
+</rss>

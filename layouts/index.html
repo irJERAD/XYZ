@@ -1,0 +1,61 @@
+{{ define "main" }}
+<section class="hero">
+  <figure class="hero__poster">
+    <img
+      src="{{ .Params.header_image | relURL }}"
+      alt="{{ .Params.header_image_alt }}"
+    />
+  </figure>
+  <div class="hero__content">
+    <p class="eyebrow">{{ .Params.kicker }}</p>
+    <h1>{{ .Params.headline }}</h1>
+    <p>{{ .Params.subhead }}</p>
+    <a class="button" href="#work">{{ .Params.cta_label | default "Start here" }}</a>
+  </div>
+</section>
+
+<section class="section paths" id="work" aria-label="Site paths">
+  {{ range .Params.paths }}
+  <a class="path" href="{{ .url }}">
+    <span>{{ .number }}</span>
+    <h2>{{ .title }}</h2>
+    <p>{{ .body }}</p>
+  </a>
+  {{ end }}
+</section>
+
+<section class="section split" id="studio">
+  <div>
+    <p class="section-kicker">{{ .Params.studio_kicker }}</p>
+    <h2>{{ .Params.studio_title }}</h2>
+  </div>
+  <div class="prose">
+    {{ range .Params.studio_paragraphs }}
+    <p>{{ . }}</p>
+    {{ end }}
+  </div>
+</section>
+
+<section class="section feature-row" id="writing">
+  {{ range .Params.features }}
+  <article{{ if .anchor }} id="{{ .anchor }}"{{ end }}>
+    <p class="section-kicker">{{ .kicker }}</p>
+    <h2>{{ .title }}</h2>
+    <p>{{ .body }}</p>
+    <a class="text-link" href="{{ .url }}">{{ .link_label }}</a>
+  </article>
+  {{ end }}
+</section>
+
+<section class="section about" id="about">
+  <img
+    src="{{ .Params.about_image }}"
+    alt="{{ .Params.about_image_alt }}"
+  />
+  <div>
+    <p class="section-kicker">{{ .Params.about_kicker }}</p>
+    <h2>{{ .Params.about_title }}</h2>
+    <p>{{ .Params.about_body }}</p>
+  </div>
+</section>
+{{ end }}

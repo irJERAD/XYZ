@@ -1,0 +1,57 @@
+---
+title: "IoT Dashboard | How To Physically Interface with the Connected World"
+date: 2017-04-01
+tags: ["IoT", "Connected", "artificial-intelligence", "dashboard"]
+summary: "A playful, philosophical write-up about a physical button interface for connected-world actions and dashboard automation."
+---
+
+<p>Call me old fashioned, but I find the pressing of a button to initiate a flurry of web requests and API calls along wireless interfaces, filling websockets or flying down an HTTP streams, possess some ephemeral quality that is immeasurably more satisfying than automated predictive measures taken assure our constant consumption carries on with a negligible amount of consideration, contemplation and consideration; thus pruning away at the self's essential prerogative to preserve and maintain.</p>
+<p>Take, for instance, the cool and consoling disposition of the refrigerator in contemporary culture. When anxiously pacing the outline of my small <small>[read tiny]</small> San Francisco apartment, the 3 or 4 laps stop to open the refrigerator door is a fostered pastime I quite enjoy. To find everything as it was before and that my appetite has - <em>indeed</em> - not changed in the minutes leading up until that point since the last repetition is a pacifying compulsion I have no desire to see altered.</p>
+<h4>IoT Automated by A.I. = AIoT???</h4>
+<p>A dangerously dexterous amalgamation is completely rewriting the very nature of how I protest inner turmoil along with a bouquet of fidget-focused avocations that collectively resolve to define what it means to be human. In the form of two exciting provinces of technology, synonymous with their promiscuity undergoing accelerated evolution, insinuates a providence in accord with the Heideggarian / Derridian philosopher <a href="https://en.wikipedia.org/wiki/Bernard_Stiegler">Bernard Steigler's</a>, <em>Technics and Time</em>. Persuading on man's lacking of any manifestation of quality wherein humanity is a much humbler object of history opposed to our egocentric perspective of being the very subject. Where our relationship to the technics is perceived as creation and hailed across the valley as innovation, '<em>the true relationship between the <strong>who</strong> and the <strong>what</strong> is [mathematically] undecidable</em>'. And we all know how fun indeterminate matrices are... NONE! None at all.</p>
+<p>Now that the Zuck has joined this ruinous sub-humanity front - <em>and in all likelihood an unconscious victim himself</em> - I have taken it upon myself to start a resistance and fight the inevitability of our destiny. To all the others left conscious and paralyzed in disbelief, join me. On behalf of sleeping and their involuntary participation in the oncoming Mechanization of Everything (MoE???) and execution of instinct, I bring [The]:</p>
+<h2>IoT Dashboard</h2>
+<h3>A Physical Interface for the Connected World</h3>
+<p>Don't let your fridge make decisions for you!, order what you want, when you want at the press of a button - a real button, not some skeuomorphism by way of screen or screen and app (though the calendar integration on that screen would provide me with a more dynamic fidget when pacing the house and checking the fridge)</p>
+<p>Physical IFTTT dashboard for Push-Button IoT actions</p>
+<ul>
+<li>Flow:</li>
+</ul>
+<ol>
+<li>Input tied to a specific action (i.e. button) &lt;required&gt;</li>
+</ol>
+<ul>
+<li>Press second or more buttons for more actions or defining context &lt;optional&gt;</li>
+</ul>
+<ol>
+<li>Input to confirm desired action / context have all been selected (i.e. key code or slide action used by FetitGo to kick off API calls)</li>
+</ol>
+<ul>
+<li>Need confirmation action so accidental inputs don't kick off unwanted API calls or commitments (like ordering a bunch of guinea pig food)</li>
+</ul>
+<ul>
+<li>Technology Stack:</li>
+<li>Hardware (Button)</li>
+<li>ESP 8233 / ESP 32</li>
+<li>Huzzah! (ada fruit)</li>
+<li>Adafruit.io</li>
+<li>Feather hats (lots of easy integration)</li>
+</ul>
+<ul>
+<li>Applications:</li>
+<li>IFTTT Recipe Initiation for:</li>
+<li>"Amazon Go"-like buttons to order:</li>
+<li>Hamster Food / Hey / Flooring</li>
+<li>Toilet paper</li>
+</ul>
+<ul>
+<li>Similar products / Inspiration:</li>
+<li>Tantiv4 makes:</li>
+<li>FetchitGo - Smart Connected Buttons</li>
+<li>Integrates with Partners:</li>
+<li>IFTTT, gCal, Logitech, Spotify, nest, LIFX (lights), hue (personal wireless lighting), Evernote</li>
+<li>Amazon Dash buttons</li>
+<li>One Click Purchases</li>
+<li>Manage Dash Button Settings</li>
+</ul>
+<p>Parts to order and experiment with.</p>

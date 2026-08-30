@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Tags on Jerad XYZ</title>
+		<link>http://localhost:1313/tags/</link>
+		<description>Recent content in Tags on Jerad XYZ</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 31 May 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Community</title>
+				<link>http://localhost:1313/tags/community/</link>
+				<pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/community/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Faith</title>
+				<link>http://localhost:1313/tags/faith/</link>
+				<pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/faith/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Surf</title>
+				<link>http://localhost:1313/tags/surf/</link>
+				<pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/surf/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Computer Vision</title>
+				<link>http://localhost:1313/tags/computer-vision/</link>
+				<pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/computer-vision/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Dashboard</title>
+				<link>http://localhost:1313/tags/dashboard/</link>
+				<pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/dashboard/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Image Processing</title>
+				<link>http://localhost:1313/tags/image-processing/</link>
+				<pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/image-processing/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Open Data</title>
+				<link>http://localhost:1313/tags/open-data/</link>
+				<pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/open-data/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>R</title>
+				<link>http://localhost:1313/tags/r/</link>
+				<pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/r/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Video</title>
+				<link>http://localhost:1313/tags/video/</link>
+				<pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/video/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Artificial-Intelligence</title>
+				<link>http://localhost:1313/tags/artificial-intelligence/</link>
+				<pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/artificial-intelligence/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Connected</title>
+				<link>http://localhost:1313/tags/connected/</link>
+				<pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/connected/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>IoT</title>
+				<link>http://localhost:1313/tags/iot/</link>
+				<pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/iot/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Exploratory Analysis</title>
+				<link>http://localhost:1313/tags/exploratory-analysis/</link>
+				<pubDate>Wed, 08 Feb 2017 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/exploratory-analysis/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Knitr</title>
+				<link>http://localhost:1313/tags/knitr/</link>
+				<pubDate>Wed, 08 Feb 2017 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/knitr/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Word Cloud</title>
+				<link>http://localhost:1313/tags/word-cloud/</link>
+				<pubDate>Wed, 08 Feb 2017 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/word-cloud/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>IPython</title>
+				<link>http://localhost:1313/tags/ipython/</link>
+				<pubDate>Wed, 09 Nov 2016 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/ipython/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Jupyter</title>
+				<link>http://localhost:1313/tags/jupyter/</link>
+				<pubDate>Wed, 09 Nov 2016 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/jupyter/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Learn</title>
+				<link>http://localhost:1313/tags/learn/</link>
+				<pubDate>Wed, 09 Nov 2016 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/learn/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Python</title>
+				<link>http://localhost:1313/tags/python/</link>
+				<pubDate>Wed, 09 Nov 2016 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/python/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>HealthKit</title>
+				<link>http://localhost:1313/tags/healthkit/</link>
+				<pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/healthkit/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Quantified Self</title>
+				<link>http://localhost:1313/tags/quantified-self/</link>
+				<pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/quantified-self/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Analytics</title>
+				<link>http://localhost:1313/tags/analytics/</link>
+				<pubDate>Tue, 28 Jun 2016 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/analytics/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Email</title>
+				<link>http://localhost:1313/tags/email/</link>
+				<pubDate>Mon, 27 Jun 2016 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/email/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Profession</title>
+				<link>http://localhost:1313/tags/profession/</link>
+				<pubDate>Mon, 27 Jun 2016 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/profession/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Tutorial</title>
+				<link>http://localhost:1313/tags/tutorial/</link>
+				<pubDate>Mon, 27 Jun 2016 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/tutorial/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Css</title>
+				<link>http://localhost:1313/tags/css/</link>
+				<pubDate>Fri, 17 Jun 2016 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/css/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Development</title>
+				<link>http://localhost:1313/tags/development/</link>
+				<pubDate>Fri, 17 Jun 2016 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/development/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Front-End</title>
+				<link>http://localhost:1313/tags/front-end/</link>
+				<pubDate>Fri, 17 Jun 2016 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/front-end/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Html</title>
+				<link>http://localhost:1313/tags/html/</link>
+				<pubDate>Fri, 17 Jun 2016 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/html/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,25 @@
+baseURL = "https://jerad.xyz/"
+languageCode = "en-us"
+title = "Jerad XYZ"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  description = "Jerad XYZ is the personal website of Jerad Acosta: writing, projects, education, surf, faith, creativity, technology, and what he is focused on now."
+
+[menu]
+  [[menu.main]]
+    name = "Writing"
+    url = "/writing/"
+    weight = 10
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 20
+  [[menu.main]]
+    name = "About"
+    url = "/#about"
+    weight = 30
