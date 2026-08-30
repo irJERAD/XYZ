@@ -98,10 +98,10 @@
 				<description>A small front-end development exercise from freeCodeCamp, built around HTML, CSS, and a delightfully direct cat-photo premise.</description>
 			</item>
 			<item>
-				<title>LinkTree</title>
-				<link>http://localhost:1313/linktree/</link>
+				<title>Things</title>
+				<link>http://localhost:1313/things/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/linktree/</guid>
+				<guid>http://localhost:1313/things/</guid>
 				<description>&lt;p&gt;&lt;a href=&#34;https://holddown.jerad.xyz&#34;&gt;Hold Down&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://holddown.jerad.xyz&#34;&gt;Hold Down&lt;/a&gt;&lt;/p&gt;</description>
 			</item>
 	</channel>

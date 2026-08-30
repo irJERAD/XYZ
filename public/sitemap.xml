@@ -141,11 +141,11 @@
   </url><url>
     <loc>http://localhost:1313/visuals/illustrations/</loc>
   </url><url>
-    <loc>http://localhost:1313/linktree/</loc>
-  </url><url>
     <loc>http://localhost:1313/visuals/photos/</loc>
   </url><url>
     <loc>http://localhost:1313/poems/</loc>
+  </url><url>
+    <loc>http://localhost:1313/things/</loc>
   </url><url>
     <loc>http://localhost:1313/visuals/</loc>
   </url>

@@ -20,7 +20,7 @@
     <header class="site-header">
       <a class="brand" href="{{ "/" | relURL }}">{{ .Site.Title }}</a>
       <nav aria-label="Primary navigation">
-        <a href="{{ "/linktree/" | relURL }}"{{ if eq .Section "linktree" }} aria-current="page"{{ end }}>Linktree</a>
+        <a href="{{ "/things/" | relURL }}"{{ if eq .Section "things" }} aria-current="page"{{ end }}>things</a>
         <a href="{{ "/writing/" | relURL }}"{{ if eq .Section "writing" }} aria-current="page"{{ end }}>Writing</a>
         <a href="{{ "/projects/" | relURL }}"{{ if eq .Section "projects" }} aria-current="page"{{ end }}>Projects</a>
         <a href="{{ "/" | relURL }}#about">About</a>

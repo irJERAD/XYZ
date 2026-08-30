@@ -1,7 +1,7 @@
 ---
-title: "LinkTree"
+title: "Things"
 description: "Projects by Jerad Acosta."
-page_heading: "LinkTree"
+page_heading: "Things"
 page_subhead: "Some things living elsewhere."
 ---
 
