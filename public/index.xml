@@ -98,6 +98,13 @@
 				<description>A small front-end development exercise from freeCodeCamp, built around HTML, CSS, and a delightfully direct cat-photo premise.</description>
 			</item>
 			<item>
+				<title>Art</title>
+				<link>https://jerad.xyz/art/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://jerad.xyz/art/</guid>
+				<description>&lt;p&gt;&lt;img src=&#34;door.jpeg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;tent.jpeg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;3tree.jpeg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;chalktree.jpeg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;horse.jpeg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;door.jpeg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;thinkingback.jpeg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;applesandwich.jpeg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;wall.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
 				<title>Education</title>
 				<link>https://jerad.xyz/education/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -109,7 +116,7 @@
 				<link>https://jerad.xyz/things/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>https://jerad.xyz/things/</guid>
-				<description>&lt;p&gt;&lt;a href=&#34;https://holddown.jerad.xyz&#34;&gt;Hold Down&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://dgg.jerad.xyz&#34;&gt;Disc Golf Growth&lt;/a&gt;&#xA;&lt;a href=&#34;https://kook-labs1-123haqan1-te-honu.vercel.app/#/home&#34;&gt;Participate&lt;/a&gt;&lt;/p&gt;</description>
+				<description>&lt;p&gt;&lt;a href=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://holddown.jerad.xyz&#34;&gt;Hold Down&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://dgg.jerad.xyz&#34;&gt;Disc Golf Growth&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://kook-labs1-123haqan1-te-honu.vercel.app/#/home&#34;&gt;Participate&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://spy-vs-spy-corridor-oeeu7anrb-te-honu.vercel.app&#34;&gt;Spy Vs Spy&lt;/a&gt;&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

@@ -9,9 +9,9 @@ subhead: "The image can carry the welcome. The page underneath can stay quiet: w
 cta_label: "Start here"
 paths:
   - number: "01"
-    title: "Writing"
-    body: "Poems, stories, reflections, notes, and pieces that are ready to leave the notebook."
-    url: "/writing/"
+    title: "Art"
+    body: "Drawing, Poems, stories, reflections, notes, and pieces that are ready to leave the notebook."
+    url: "/art/"
   - number: "02"
     title: "Projects"
     body: "Apps, experiments, games, tools, and learning systems in progress."
