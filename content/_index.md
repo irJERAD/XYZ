@@ -28,7 +28,7 @@ studio_kicker: "Home base"
 studio_title: "A front door for the work, not the whole workshop."
 studio_paragraphs:
   - "Jerad.xyz is the quiet public layer: the writing worth sharing, the projects that are becoming useful, and the background that gives the work its shape."
-  - "The private studio can stay behind the scenes. This production version keeps the first visit clear and lets each path have its own page."
+  - ""
 features:
   - kicker: "Writing"
     title: "Poems and notes"
