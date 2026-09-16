@@ -19,6 +19,9 @@ page_subhead: "Some things living elsewhere."
 
 ## Apps
 
+[Confluence](https://confluence-prototype-eight.vercel.app)
+* A tool to help make sense of the serendipity and divine interventions in our daily life
+
 [Bars](https://bars-tan.vercel.app)
 * A tool for writing lyrics and prose
 
