@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Photos on Jerad XYZ</title>
-		<link>https://jerad.xyz/visuals/photos/</link>
+		<link>http://localhost:1313/visuals/photos/</link>
 		<description>Recent content in Photos on Jerad XYZ</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,6 +10,6 @@
 		
 		
 		
-			<atom:link href="https://jerad.xyz/visuals/photos/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/visuals/photos/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>

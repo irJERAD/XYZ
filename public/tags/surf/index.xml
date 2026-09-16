@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Surf on Jerad XYZ</title>
-		<link>https://jerad.xyz/tags/surf/</link>
+		<link>http://localhost:1313/tags/surf/</link>
 		<description>Recent content in Surf on Jerad XYZ</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Sun, 31 May 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://jerad.xyz/tags/surf/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/surf/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Wild at Heart: Mecho en Mexico</title>
-				<link>https://jerad.xyz/writing/wild-at-heart-mecho-en-mexico/</link>
+				<link>http://localhost:1313/writing/wild-at-heart-mecho-en-mexico/</link>
 				<pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-				<guid>https://jerad.xyz/writing/wild-at-heart-mecho-en-mexico/</guid>
+				<guid>http://localhost:1313/writing/wild-at-heart-mecho-en-mexico/</guid>
 				<description>A reflection on a seven-day surf trip, the friendships that form when people make space for each other, and the courage it takes to try something new.</description>
 			</item>
 	</channel>

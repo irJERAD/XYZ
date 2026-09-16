@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Jerad XYZ</title>
-		<link>https://jerad.xyz/</link>
+		<link>http://localhost:1313/</link>
 		<description>Recent content on Jerad XYZ</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,111 +12,111 @@
 		
 			<lastBuildDate>Sun, 31 May 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://jerad.xyz/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Wild at Heart: Mecho en Mexico</title>
-				<link>https://jerad.xyz/writing/wild-at-heart-mecho-en-mexico/</link>
+				<link>http://localhost:1313/writing/wild-at-heart-mecho-en-mexico/</link>
 				<pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-				<guid>https://jerad.xyz/writing/wild-at-heart-mecho-en-mexico/</guid>
+				<guid>http://localhost:1313/writing/wild-at-heart-mecho-en-mexico/</guid>
 				<description>A reflection on a seven-day surf trip, the friendships that form when people make space for each other, and the courage it takes to try something new.</description>
 			</item>
 			<item>
 				<title>Computer Vision with Image LineSegmentDetector</title>
-				<link>https://jerad.xyz/projects/computer-vision-line-segment-detector/</link>
+				<link>http://localhost:1313/projects/computer-vision-line-segment-detector/</link>
 				<pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
-				<guid>https://jerad.xyz/projects/computer-vision-line-segment-detector/</guid>
+				<guid>http://localhost:1313/projects/computer-vision-line-segment-detector/</guid>
 				<description>Computer vision exploration using the image.LineSegmentDetector R package from the image algorithm suite.</description>
 			</item>
 			<item>
 				<title>Computer Vision with videoplayR</title>
-				<link>https://jerad.xyz/projects/computer-vision-videoplayr/</link>
+				<link>http://localhost:1313/projects/computer-vision-videoplayr/</link>
 				<pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
-				<guid>https://jerad.xyz/projects/computer-vision-videoplayr/</guid>
+				<guid>http://localhost:1313/projects/computer-vision-videoplayr/</guid>
 				<description>An image and video analysis experiment using the videoplayR package to inspect attributes of video frames.</description>
 			</item>
 			<item>
 				<title>NYC Motor Collision Dashboard</title>
-				<link>https://jerad.xyz/projects/nyc-motor-collision-dashboard/</link>
+				<link>http://localhost:1313/projects/nyc-motor-collision-dashboard/</link>
 				<pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
-				<guid>https://jerad.xyz/projects/nyc-motor-collision-dashboard/</guid>
+				<guid>http://localhost:1313/projects/nyc-motor-collision-dashboard/</guid>
 				<description>A three-panel interactive dashboard based on the NYC motor vehicle collisions dataset and organized by borough.</description>
 			</item>
 			<item>
 				<title>IoT Dashboard | How To Physically Interface with the Connected World</title>
-				<link>https://jerad.xyz/writing/iot-dashboard-how-to-interface-connected-world/</link>
+				<link>http://localhost:1313/writing/iot-dashboard-how-to-interface-connected-world/</link>
 				<pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-				<guid>https://jerad.xyz/writing/iot-dashboard-how-to-interface-connected-world/</guid>
+				<guid>http://localhost:1313/writing/iot-dashboard-how-to-interface-connected-world/</guid>
 				<description>A playful, philosophical write-up about a physical button interface for connected-world actions and dashboard automation.</description>
 			</item>
 			<item>
 				<title>Trump Twitter Word Cloud</title>
-				<link>https://jerad.xyz/projects/trump-twitter-word-cloud/</link>
+				<link>http://localhost:1313/projects/trump-twitter-word-cloud/</link>
 				<pubDate>Wed, 08 Feb 2017 00:00:00 +0000</pubDate>
-				<guid>https://jerad.xyz/projects/trump-twitter-word-cloud/</guid>
+				<guid>http://localhost:1313/projects/trump-twitter-word-cloud/</guid>
 				<description>Word cloud generated from a time series of tweets, prepared as a reproducible knitr document.</description>
 			</item>
 			<item>
 				<title>Jupyter Notebook Basics</title>
-				<link>https://jerad.xyz/writing/jupyter-notebook-basics/</link>
+				<link>http://localhost:1313/writing/jupyter-notebook-basics/</link>
 				<pubDate>Wed, 09 Nov 2016 00:00:00 +0000</pubDate>
-				<guid>https://jerad.xyz/writing/jupyter-notebook-basics/</guid>
+				<guid>http://localhost:1313/writing/jupyter-notebook-basics/</guid>
 				<description>A practical reminder sheet for working in Jupyter notebooks, including cells, Markdown, documentation, and learning resources.</description>
 			</item>
 			<item>
 				<title>NYC Motor Vehicle Collision Exploratory Data Analysis</title>
-				<link>https://jerad.xyz/projects/nyc-motor-collision-exploratory-analysis/</link>
+				<link>http://localhost:1313/projects/nyc-motor-collision-exploratory-analysis/</link>
 				<pubDate>Fri, 30 Sep 2016 00:00:00 +0000</pubDate>
-				<guid>https://jerad.xyz/projects/nyc-motor-collision-exploratory-analysis/</guid>
+				<guid>http://localhost:1313/projects/nyc-motor-collision-exploratory-analysis/</guid>
 				<description>Exploratory analysis behind the NYC collision dashboard, with knitr source material for reproducibility.</description>
 			</item>
 			<item>
 				<title>Apple HealthKit Dashboard</title>
-				<link>https://jerad.xyz/projects/healthkit-dashboard/</link>
+				<link>http://localhost:1313/projects/healthkit-dashboard/</link>
 				<pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
-				<guid>https://jerad.xyz/projects/healthkit-dashboard/</guid>
+				<guid>http://localhost:1313/projects/healthkit-dashboard/</guid>
 				<description>Interactive dashboard from iPhone HealthKit data, built in R with htmlwidgets and flexdashboard packages.</description>
 			</item>
 			<item>
 				<title>Wharton Operations Analytics Notes</title>
-				<link>https://jerad.xyz/writing/wharton-operations-analytics-notes/</link>
+				<link>http://localhost:1313/writing/wharton-operations-analytics-notes/</link>
 				<pubDate>Tue, 28 Jun 2016 00:00:00 +0000</pubDate>
-				<guid>https://jerad.xyz/writing/wharton-operations-analytics-notes/</guid>
+				<guid>http://localhost:1313/writing/wharton-operations-analytics-notes/</guid>
 				<description>Course notes on descriptive analytics, predictive analytics, prescriptive analytics, and the Newsvendor Problem.</description>
 			</item>
 			<item>
 				<title>How to Create a Custom Email Signature for Mail</title>
-				<link>https://jerad.xyz/writing/custom-email-signature/</link>
+				<link>http://localhost:1313/writing/custom-email-signature/</link>
 				<pubDate>Mon, 27 Jun 2016 00:00:00 +0000</pubDate>
-				<guid>https://jerad.xyz/writing/custom-email-signature/</guid>
+				<guid>http://localhost:1313/writing/custom-email-signature/</guid>
 				<description>Notes on building a custom HTML email signature for Mail, with a focus on branded, clickable personal and professional identities.</description>
 			</item>
 			<item>
 				<title>Cat Photo App</title>
-				<link>https://jerad.xyz/writing/cat-photo-app/</link>
+				<link>http://localhost:1313/writing/cat-photo-app/</link>
 				<pubDate>Fri, 17 Jun 2016 00:00:00 +0000</pubDate>
-				<guid>https://jerad.xyz/writing/cat-photo-app/</guid>
+				<guid>http://localhost:1313/writing/cat-photo-app/</guid>
 				<description>A small front-end development exercise from freeCodeCamp, built around HTML, CSS, and a delightfully direct cat-photo premise.</description>
 			</item>
 			<item>
 				<title>Art</title>
-				<link>https://jerad.xyz/art/</link>
+				<link>http://localhost:1313/art/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://jerad.xyz/art/</guid>
+				<guid>http://localhost:1313/art/</guid>
 				<description>&lt;p&gt;&lt;img src=&#34;door.jpeg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;tent.jpeg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;3tree.jpeg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;chalktree.jpeg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;horse.jpeg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;door.jpeg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;thinkingback.jpeg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;applesandwich.jpeg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;wall.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Education</title>
-				<link>https://jerad.xyz/education/</link>
+				<link>http://localhost:1313/education/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://jerad.xyz/education/</guid>
+				<guid>http://localhost:1313/education/</guid>
 				<description>&lt;h3 id=&#34;ucsd-class-of-2012-honors&#34;&gt;UCSD Class of 2012 Honors&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Bachelors of Science in Cognitive Science&lt;/li&gt;&#xA;&lt;li&gt;Minor in Applied Mathematics&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;professional-experience&#34;&gt;Professional Experience&lt;/h3&gt;&#xA;&lt;h4 id=&#34;project-management&#34;&gt;Project Management&lt;/h4&gt;&#xA;&lt;p&gt;IoT for Smart Homes and Commercial Solutions&lt;/p&gt;&#xA;&lt;h4 id=&#34;technical-consultant&#34;&gt;Technical Consultant&lt;/h4&gt;&#xA;&lt;p&gt;Visa — Credit Risk Intelligence&lt;/p&gt;&#xA;&lt;p&gt;Lead Technical Consultant&lt;/p&gt;&#xA;&lt;p&gt;Helped Visa develop a data-driven product for evaluating and ranking the creditworthiness of individual banks and lending institutions.&lt;/p&gt;&#xA;&lt;p&gt;What I did&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Led technical consulting for the product&lt;/li&gt;&#xA;&lt;li&gt;Translated financial risk requirements into a technical framework&lt;/li&gt;&#xA;&lt;li&gt;Worked across business, financial, and technical stakeholders&lt;/li&gt;&#xA;&lt;li&gt;Helped shape the methodology for evaluating institutional credit risk&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Focus: Data · Financial Risk · Product Strategy · Technical Consulting&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Things</title>
-				<link>https://jerad.xyz/things/</link>
+				<link>http://localhost:1313/things/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://jerad.xyz/things/</guid>
-				<description>&lt;h1 id=&#34;things&#34;&gt;THings&lt;/h1&gt;&#xA;&lt;h2 id=&#34;music&#34;&gt;Music&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://music.jerad.xyz/#dj-ducken-and-jerdad&#34;&gt;Music from the Past&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;writing&#34;&gt;Writing&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://palaver.jerad.xyz&#34;&gt;Palaver&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://holddown.jerad.xyz&#34;&gt;Hold Down&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://dgg.jerad.xyz&#34;&gt;Disc Golf Growth&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://kook-labs1-123haqan1-te-honu.vercel.app/#/home&#34;&gt;Participate&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://spy-vs-spy-corridor-oeeu7anrb-te-honu.vercel.app&#34;&gt;Spy Vs Spy&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://pp.jerad.xyz&#34;&gt;Picasso PostCard&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://truth-lie-ai.jerad.xyz&#34;&gt;Truth Lie AI&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;still uses the same AI questions since I would be using tokens to create a new ai generated question.&lt;br&gt;&#xA;The idea would be to use length of the truth and lie statements as well as their style such as grammar, colloquial, or jargon.&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+				<guid>http://localhost:1313/things/</guid>
+				<description>&lt;h1 id=&#34;things&#34;&gt;THings&lt;/h1&gt;&#xA;&lt;h2 id=&#34;music&#34;&gt;Music&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://music.jerad.xyz/#dj-ducken-and-jerdad&#34;&gt;Music from the Past&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;writing&#34;&gt;Writing&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://palaver.jerad.xyz&#34;&gt;Palaver&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;apps&#34;&gt;Apps&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://bars-tan.vercel.app&#34;&gt;Bars&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A tool for writing lyrics and prose&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://executive-power-dashboard.vercel.app&#34;&gt;Executive Use of Power&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A look at the use of executive power by the different branches of governments and presidents over time&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://holddown.jerad.xyz&#34;&gt;Hold Down&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Breath training for surfers&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://dgg.jerad.xyz&#34;&gt;Disc Golf Growth&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Disc golf tool&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://kook-labs1-123haqan1-te-honu.vercel.app/#/home&#34;&gt;Participate&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Designed to get you participating and engaged in life&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://spy-vs-spy-corridor-oeeu7anrb-te-honu.vercel.app&#34;&gt;Spy Vs Spy&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Fun game as a spy trying to out-smart and defeat another spy&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://pp.jerad.xyz&#34;&gt;Picasso PostCard&lt;/a&gt;&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

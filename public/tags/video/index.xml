@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Video on Jerad XYZ</title>
-		<link>https://jerad.xyz/tags/video/</link>
+		<link>http://localhost:1313/tags/video/</link>
 		<description>Recent content in Video on Jerad XYZ</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Thu, 27 Apr 2017 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://jerad.xyz/tags/video/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/video/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Computer Vision with videoplayR</title>
-				<link>https://jerad.xyz/projects/computer-vision-videoplayr/</link>
+				<link>http://localhost:1313/projects/computer-vision-videoplayr/</link>
 				<pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
-				<guid>https://jerad.xyz/projects/computer-vision-videoplayr/</guid>
+				<guid>http://localhost:1313/projects/computer-vision-videoplayr/</guid>
 				<description>An image and video analysis experiment using the videoplayR package to inspect attributes of video frames.</description>
 			</item>
 	</channel>

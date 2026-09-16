@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Dashboard on Jerad XYZ</title>
-		<link>https://jerad.xyz/tags/dashboard/</link>
+		<link>http://localhost:1313/tags/dashboard/</link>
 		<description>Recent content in Dashboard on Jerad XYZ</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,26 +12,26 @@
 		
 			<lastBuildDate>Thu, 27 Apr 2017 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://jerad.xyz/tags/dashboard/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/dashboard/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>NYC Motor Collision Dashboard</title>
-				<link>https://jerad.xyz/projects/nyc-motor-collision-dashboard/</link>
+				<link>http://localhost:1313/projects/nyc-motor-collision-dashboard/</link>
 				<pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
-				<guid>https://jerad.xyz/projects/nyc-motor-collision-dashboard/</guid>
+				<guid>http://localhost:1313/projects/nyc-motor-collision-dashboard/</guid>
 				<description>A three-panel interactive dashboard based on the NYC motor vehicle collisions dataset and organized by borough.</description>
 			</item>
 			<item>
 				<title>IoT Dashboard | How To Physically Interface with the Connected World</title>
-				<link>https://jerad.xyz/writing/iot-dashboard-how-to-interface-connected-world/</link>
+				<link>http://localhost:1313/writing/iot-dashboard-how-to-interface-connected-world/</link>
 				<pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-				<guid>https://jerad.xyz/writing/iot-dashboard-how-to-interface-connected-world/</guid>
+				<guid>http://localhost:1313/writing/iot-dashboard-how-to-interface-connected-world/</guid>
 				<description>A playful, philosophical write-up about a physical button interface for connected-world actions and dashboard automation.</description>
 			</item>
 			<item>
 				<title>Apple HealthKit Dashboard</title>
-				<link>https://jerad.xyz/projects/healthkit-dashboard/</link>
+				<link>http://localhost:1313/projects/healthkit-dashboard/</link>
 				<pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
-				<guid>https://jerad.xyz/projects/healthkit-dashboard/</guid>
+				<guid>http://localhost:1313/projects/healthkit-dashboard/</guid>
 				<description>Interactive dashboard from iPhone HealthKit data, built in R with htmlwidgets and flexdashboard packages.</description>
 			</item>
 	</channel>

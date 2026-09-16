@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Python on Jerad XYZ</title>
-		<link>https://jerad.xyz/tags/python/</link>
+		<link>http://localhost:1313/tags/python/</link>
 		<description>Recent content in Python on Jerad XYZ</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Wed, 09 Nov 2016 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://jerad.xyz/tags/python/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Jupyter Notebook Basics</title>
-				<link>https://jerad.xyz/writing/jupyter-notebook-basics/</link>
+				<link>http://localhost:1313/writing/jupyter-notebook-basics/</link>
 				<pubDate>Wed, 09 Nov 2016 00:00:00 +0000</pubDate>
-				<guid>https://jerad.xyz/writing/jupyter-notebook-basics/</guid>
+				<guid>http://localhost:1313/writing/jupyter-notebook-basics/</guid>
 				<description>A practical reminder sheet for working in Jupyter notebooks, including cells, Markdown, documentation, and learning resources.</description>
 			</item>
 	</channel>

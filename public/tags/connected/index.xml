@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Connected on Jerad XYZ</title>
-		<link>https://jerad.xyz/tags/connected/</link>
+		<link>http://localhost:1313/tags/connected/</link>
 		<description>Recent content in Connected on Jerad XYZ</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://jerad.xyz/tags/connected/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/connected/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>IoT Dashboard | How To Physically Interface with the Connected World</title>
-				<link>https://jerad.xyz/writing/iot-dashboard-how-to-interface-connected-world/</link>
+				<link>http://localhost:1313/writing/iot-dashboard-how-to-interface-connected-world/</link>
 				<pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-				<guid>https://jerad.xyz/writing/iot-dashboard-how-to-interface-connected-world/</guid>
+				<guid>http://localhost:1313/writing/iot-dashboard-how-to-interface-connected-world/</guid>
 				<description>A playful, philosophical write-up about a physical button interface for connected-world actions and dashboard automation.</description>
 			</item>
 	</channel>

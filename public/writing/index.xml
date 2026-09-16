@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Writing on Jerad XYZ</title>
-		<link>https://jerad.xyz/writing/</link>
+		<link>http://localhost:1313/writing/</link>
 		<description>Recent content in Writing on Jerad XYZ</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,47 +12,47 @@
 		
 			<lastBuildDate>Sun, 31 May 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://jerad.xyz/writing/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/writing/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Wild at Heart: Mecho en Mexico</title>
-				<link>https://jerad.xyz/writing/wild-at-heart-mecho-en-mexico/</link>
+				<link>http://localhost:1313/writing/wild-at-heart-mecho-en-mexico/</link>
 				<pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-				<guid>https://jerad.xyz/writing/wild-at-heart-mecho-en-mexico/</guid>
+				<guid>http://localhost:1313/writing/wild-at-heart-mecho-en-mexico/</guid>
 				<description>A reflection on a seven-day surf trip, the friendships that form when people make space for each other, and the courage it takes to try something new.</description>
 			</item>
 			<item>
 				<title>IoT Dashboard | How To Physically Interface with the Connected World</title>
-				<link>https://jerad.xyz/writing/iot-dashboard-how-to-interface-connected-world/</link>
+				<link>http://localhost:1313/writing/iot-dashboard-how-to-interface-connected-world/</link>
 				<pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-				<guid>https://jerad.xyz/writing/iot-dashboard-how-to-interface-connected-world/</guid>
+				<guid>http://localhost:1313/writing/iot-dashboard-how-to-interface-connected-world/</guid>
 				<description>A playful, philosophical write-up about a physical button interface for connected-world actions and dashboard automation.</description>
 			</item>
 			<item>
 				<title>Jupyter Notebook Basics</title>
-				<link>https://jerad.xyz/writing/jupyter-notebook-basics/</link>
+				<link>http://localhost:1313/writing/jupyter-notebook-basics/</link>
 				<pubDate>Wed, 09 Nov 2016 00:00:00 +0000</pubDate>
-				<guid>https://jerad.xyz/writing/jupyter-notebook-basics/</guid>
+				<guid>http://localhost:1313/writing/jupyter-notebook-basics/</guid>
 				<description>A practical reminder sheet for working in Jupyter notebooks, including cells, Markdown, documentation, and learning resources.</description>
 			</item>
 			<item>
 				<title>Wharton Operations Analytics Notes</title>
-				<link>https://jerad.xyz/writing/wharton-operations-analytics-notes/</link>
+				<link>http://localhost:1313/writing/wharton-operations-analytics-notes/</link>
 				<pubDate>Tue, 28 Jun 2016 00:00:00 +0000</pubDate>
-				<guid>https://jerad.xyz/writing/wharton-operations-analytics-notes/</guid>
+				<guid>http://localhost:1313/writing/wharton-operations-analytics-notes/</guid>
 				<description>Course notes on descriptive analytics, predictive analytics, prescriptive analytics, and the Newsvendor Problem.</description>
 			</item>
 			<item>
 				<title>How to Create a Custom Email Signature for Mail</title>
-				<link>https://jerad.xyz/writing/custom-email-signature/</link>
+				<link>http://localhost:1313/writing/custom-email-signature/</link>
 				<pubDate>Mon, 27 Jun 2016 00:00:00 +0000</pubDate>
-				<guid>https://jerad.xyz/writing/custom-email-signature/</guid>
+				<guid>http://localhost:1313/writing/custom-email-signature/</guid>
 				<description>Notes on building a custom HTML email signature for Mail, with a focus on branded, clickable personal and professional identities.</description>
 			</item>
 			<item>
 				<title>Cat Photo App</title>
-				<link>https://jerad.xyz/writing/cat-photo-app/</link>
+				<link>http://localhost:1313/writing/cat-photo-app/</link>
 				<pubDate>Fri, 17 Jun 2016 00:00:00 +0000</pubDate>
-				<guid>https://jerad.xyz/writing/cat-photo-app/</guid>
+				<guid>http://localhost:1313/writing/cat-photo-app/</guid>
 				<description>A small front-end development exercise from freeCodeCamp, built around HTML, CSS, and a delightfully direct cat-photo premise.</description>
 			</item>
 	</channel>
