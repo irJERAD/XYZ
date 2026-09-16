@@ -1,0 +1,23 @@
+{{ define "main" }}
+<main id="main">
+  <div>
+    <h1>Page Not Found</h1>
+    <p>Sorry, the page you are looking for does not exist.</p>
+
+
+
+<!--
+Source - https://stackoverflow.com/a/29319953
+Posted by John Gonzalez, modified by community. See post 'Timeline' for change history
+Retrieved 2026-09-16, License - CC BY-SA 3.0
+-->
+
+{{/*  <iframe src="https://youtube.com/shorts/jEBnrzNuUSA?si=mp6IgN9hks0KFcZn?start=29&autoplay=1" width="500" height="350" src="" frameborder="0" allowfullscreen></iframe>  */}}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-DT7bX-B1Mg?si=yM-xzsqUEMkashpU&amp;controls=0&amp;start=17" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay=1; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</div><br>
+    <a href="{{ "/" | relURL }}">Back to Home</a>
+  </div>
+</main>
+{{ end }}
